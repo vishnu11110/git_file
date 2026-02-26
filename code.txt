@@ -1,2 +1,3 @@
+the fun
 this is a text file
 the change
